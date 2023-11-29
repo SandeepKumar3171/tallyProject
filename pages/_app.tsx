@@ -17,6 +17,7 @@ import '@styles/shortcodes.css';
 import "@styles/base.css";
 // import "tippy.js/dist/tippy.css";
 import "@styles/style.css";
+ import "../styles/globals.css"
 
 const App = ({ Component, pageProps }) => {
   const router = useRouter();

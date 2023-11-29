@@ -10,6 +10,7 @@ const HomePage: NextPage = () => {
   return (
     <Layout title="Anasayfa">
       <Hero />
+      
 
       <About />
       <Services />
